@@ -1,0 +1,43 @@
+.select-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 50px;
+    margin-bottom: 3em;
+  }
+  
+  .select {
+    border: none;
+    outline: none;
+    padding: 1em;
+    width: 100%;
+    color: white;
+    background-color: #00348d;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+
+  .select-icon {
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+  }
+
+  .icon-container {
+    width: 50px;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #00df00;
+    padding: .3em;
+  }
+
+  .select-icon {
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+  }
+
+  

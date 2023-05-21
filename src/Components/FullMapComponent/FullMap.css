@@ -1,0 +1,15 @@
+.full-map-container {
+    background-color:#00348d;
+    border-radius: 30px;
+    margin-top: 6em;
+    padding: 3em;
+    padding-bottom: 3.5em;
+    border-color: rgb(231, 231, 231);
+    border-width: 30px;
+  }
+  
+  .full-map-container .map-container {
+    height: 700px;
+    width: 120vh;
+    border-radius: 20px;
+  }
